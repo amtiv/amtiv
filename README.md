@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">Estudiante frontend ~</h3>
 
-- 🌱 I’m currently learning **React y mysq**
+- 🌱 I’m currently learning **React y SQL**
 
-- 📫 How to reach me **mvtias.n@gmail.com**
+- 📫 How to reach me **matias.nvillalva@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
